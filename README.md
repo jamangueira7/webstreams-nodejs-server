@@ -24,6 +24,7 @@ Server para ler um arquivo CSV e enviar sob demanda para o front.
 
 ![img.png](.github%2Fimg.png)
 
+Projeto original [ErickWendel](https://github.com/ErickWendel/webstreams-nodejs-and-browser-tutorial)
 
 Frontend [Aqui](https://github.com/jamangueira7/webstreams-nodejs-app)
 
